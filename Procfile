@@ -1,0 +1,1 @@
+web: gunicorn trance.wsgi –log-file -
